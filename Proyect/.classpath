@@ -6,7 +6,12 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JOGL">
+	<classpathentry kind="lib" path="C:/Users/alexa/Downloads/lib/jogamp-all-platforms/jar/jogl-all.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/alexa/Downloads/lib/jogamp-all-platforms/jar/gluegen-rt.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
